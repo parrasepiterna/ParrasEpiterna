@@ -2,5 +2,5 @@ pandas
 ipywidgets
 lifelines
 matplotlib
-voila
+voila==0.2.10
 jinja2
