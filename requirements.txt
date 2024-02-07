@@ -2,3 +2,4 @@ pandas
 ipywidgets
 lifelines
 matplotlib
+voila
