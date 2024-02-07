@@ -3,3 +3,4 @@ ipywidgets
 lifelines
 matplotlib
 voila
+jinja2
