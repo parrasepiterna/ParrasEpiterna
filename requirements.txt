@@ -3,4 +3,3 @@ ipywidgets
 lifelines
 matplotlib
 voila==0.2.10
-jinja2
